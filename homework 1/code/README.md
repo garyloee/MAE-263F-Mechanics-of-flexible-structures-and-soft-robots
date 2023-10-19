@@ -1,3 +1,5 @@
+Load in GradEs, GradEb, HessEs, HessEb to allow the codes to run properly.
+
 Problem 1
 run Problem1.m to excute implicit method for question 1 and 2.
 
